@@ -1,3 +1,5 @@
+g-r test 1
+
 # nbrank - naver blog search rank collector
 
 # 2016.5.30
@@ -36,16 +38,4 @@
 # url : localhost:8000 브라우저로 열기
 
 pms 연동테스트 
-sync test 1
-sync test 2
-sync test 3
-sync test 4
-sync test 5
-sync test 6
-sync test 7
-sync test 8
-sync test 9
-sync test 10
-sync test 11
-sync test 12
-sync test 13
+
