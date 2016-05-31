@@ -36,3 +36,4 @@
 # url : localhost:8000 브라우저로 열기
 
 pms 연동테스트 
+sync test 1
