@@ -34,3 +34,5 @@
 # $python manage.py migrate
 # $python manage.py runserver 0:8000
 # url : localhost:8000 브라우저로 열기
+
+pms 연동테스트 
