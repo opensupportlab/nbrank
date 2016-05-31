@@ -1,3 +1,4 @@
+g-r test 2
 g-r test 1
 
 # nbrank - naver blog search rank collector
