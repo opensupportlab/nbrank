@@ -42,3 +42,4 @@ sync test 3
 sync test 4
 sync test 5
 sync test 6
+sync test 7
